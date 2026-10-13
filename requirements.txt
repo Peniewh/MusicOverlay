@@ -1,0 +1,7 @@
+PySide6>=6.6
+python-vlc>=3.0
+mutagen>=1.47
+keyboard>=0.13
+yt-dlp>=2024.1
+vkpymusic>=0.6
+Pillow>=10.0
